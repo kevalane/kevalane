@@ -1,3 +1,4 @@
-💻 Full-stack Web developer (MEAN-stack)  
-🏠 Self-employed consultant  
-🇸🇪 From Stockholm, Sweden  
+💻  Full-stack Web developer (usually MEAN-stack)  
+🏠  Self-employed consultant focused on small businesses.
+🇸🇪  From Stockholm, Sweden
+📧  kevin@jkmholding.com
